@@ -14,6 +14,6 @@ A simple and efficient Todo List application built with **React.js** and **Tailw
 - **React.js**
 - **Tailwind CSS**
 - **Context API**
-- **Local Storage*
+- **Local Storage**
 # Website
 (https://to-do-list-react-tailwind.netlify.app/)
